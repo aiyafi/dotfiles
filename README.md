@@ -33,7 +33,6 @@ This repository started as a personal checkpoint to backup my configurations, bu
 
 1. Clone this repository:
 ```powershell
-git clone https://github.com/yourusername/dotfiles.git
 cd dotfiles
 ```
 
